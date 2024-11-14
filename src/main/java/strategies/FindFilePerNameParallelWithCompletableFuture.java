@@ -10,6 +10,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 import java.util.concurrent.CompletableFuture;
 import java.util.logging.Logger;
 import java.util.stream.Stream;
@@ -30,6 +31,7 @@ public class FindFilePerNameParallelWithCompletableFuture extends AbstractFileSe
 
         return find(desiredPath).stream()
                 .map(CompletableFuture::join)
+                .filter(Objects::nonNull)
                 .toList();
     }
 
