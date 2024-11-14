@@ -16,10 +16,10 @@
 - **User-Friendly Interface**:
   - Built with Jetpack Compose Desktop for a modern and responsive UI.
 
-##Benchmark
+## Benchmark
 
 ![image](https://github.com/user-attachments/assets/d1334ab6-87a3-4af0-a251-0443b9b8135c)
 
-##Charts
+## Charts
 
 ![Picture1](https://github.com/user-attachments/assets/154a69ac-cdb3-4f3a-8429-f74a3084b54d)
