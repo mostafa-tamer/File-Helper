@@ -23,3 +23,10 @@
 ## Charts
 
 ![Picture1](https://github.com/user-attachments/assets/154a69ac-cdb3-4f3a-8429-f74a3084b54d)
+
+## App
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81c5eac5-256f-4913-bcfc-79e3b82b4b5a" width="45%" alt="Image 1">
+  <img src="https://github.com/user-attachments/assets/7c59b232-423b-400b-93c0-f1f2373929ec" width="45%" alt="Image 2">
+</p>
