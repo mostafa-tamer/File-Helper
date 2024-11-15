@@ -28,6 +28,11 @@
 
 **Select An Algorithm**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81c5eac5-256f-4913-bcfc-79e3b82b4b5a" width="49%" alt="Image 1">
+  <img src="https://github.com/user-attachments/assets/7c59b232-423b-400b-93c0-f1f2373929ec" width="49%" alt="Image 2">
+</p>
+
 <img src="https://github.com/user-attachments/assets/81c5eac5-256f-4913-bcfc-79e3b82b4b5a" width="85%" alt="Image 1">
 
 **Search By Token & Directory Path**
