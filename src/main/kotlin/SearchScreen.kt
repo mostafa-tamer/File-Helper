@@ -94,7 +94,7 @@ fun FileCard(file: MatchedFile) {
             Spacer(modifier = Modifier.height(4.dp))
             Card(
                 modifier = Modifier.fillMaxSize(),
-                colors = CardDefaults.cardColors(containerColor = Color.Cyan)
+                colors = CardDefaults.cardColors(containerColor = Color.White)
             ) {
                 SelectionContainer {
                     Text(
