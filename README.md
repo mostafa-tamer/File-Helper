@@ -26,5 +26,10 @@
 
 ## App
 
-<img src="https://github.com/user-attachments/assets/81c5eac5-256f-4913-bcfc-79e3b82b4b5a" width="100%" alt="Image 1">
-<img src="https://github.com/user-attachments/assets/7c59b232-423b-400b-93c0-f1f2373929ec" width="100%" alt="Image 2">
+**Select An Algorithm**
+
+<img src="https://github.com/user-attachments/assets/81c5eac5-256f-4913-bcfc-79e3b82b4b5a" width="70%" alt="Image 1">
+
+**Search By Token & Directory Path**
+
+<img src="https://github.com/user-attachments/assets/7c59b232-423b-400b-93c0-f1f2373929ec" width="70%" alt="Image 2">
