@@ -18,7 +18,7 @@
 
 ## Benchmark
 
-![chart](https://github.com/user-attachments/assets/5bd308f0-a887-4cbc-836d-e463c82f6a5e)
+![image](https://github.com/user-attachments/assets/45a676da-a364-448f-aa4e-72d2c9568f85)
 
 ## Charts
 
